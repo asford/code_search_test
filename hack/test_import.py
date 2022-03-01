@@ -1,3 +1,3 @@
-import code_search_test.module as module
+import code_search_test.submodule as module
 
 module.value
